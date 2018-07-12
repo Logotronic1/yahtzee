@@ -1,5 +1,3 @@
-# yahtzee
 First test
-Zeile 2
-Zeile 3
-Zeile 4
+Das ist eine Erweiterung von first Test
+2 Zeilen zusätzlich
