@@ -1,4 +1,4 @@
-//
+﻿//
 maxSpalten = 6;
 serviert = 0;
 selektiertesFeld = null;
